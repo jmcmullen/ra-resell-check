@@ -1,5 +1,5 @@
 # Resident Advisor - Resell Ticket Checker
-This script will monitor a RA event for you and send a text message to your phone once event tickets become available.
+This script will monitor an RA event for you and send a text message to your phone once event tickets become available.
 
 It relies on Clockwork's SMS API: https://www.clockworksms.com/
 
