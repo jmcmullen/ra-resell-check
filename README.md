@@ -1,6 +1,16 @@
-# ra-resell-check
-Send a text message to your phone once event tickets become available.
+# Resident Advisor - Resell Ticket Checker
+This script will monitor a RA event for you and send a text message to your phone once event tickets become available.
 
-Use's Clockwork SMS: https://www.clockworksms.com/
+It relies on Clockwork's SMS API: https://www.clockworksms.com/
 
-Rename config.example.js to config.js and replace the default values.
+# Quick Start
+```
+#install dependencies
+npm i
+
+#rename your config and edit it with your phone number, event url and clockwork api key
+mv config.example.js config.js
+
+#launch the script
+npm start
+```
