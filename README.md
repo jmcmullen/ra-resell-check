@@ -4,7 +4,7 @@ This script will monitor a RA event for you and send a text message to your phon
 It relies on Clockwork's SMS API: https://www.clockworksms.com/
 
 # Quick Start
-```
+```bash
 #install dependencies
 npm i
 
