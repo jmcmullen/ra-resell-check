@@ -5,12 +5,12 @@ It relies on Clockwork's SMS API: https://www.clockworksms.com/
 
 # Quick Start
 ```bash
-#install dependencies
+# Install dependencies
 npm i
 
-#rename your config and edit it with your phone number, event url and clockwork api key
+# Rename your config then edit the default values.
 mv config.example.js config.js
 
-#launch the script
+# Launch the script.
 npm start
 ```
